@@ -1,11 +1,12 @@
-# Hello
+# Bonjour Monde
 
-This git hub page will help you to the utilisation and the installation of the web site "Apagnan"
+Bonjour Monde is a website that provides french vocabulary for french learners.
 
 ## Features
 
-- Blog 
-- Joke
+- Word flashcards
+- Progress tracker
+- Personal dictionnary
 
 ## Installation
 
@@ -15,4 +16,4 @@ This git hub page will help you to the utilisation and the installation of the w
 
 ## Usage
 
-...
+Learn many french words
